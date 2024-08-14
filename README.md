@@ -10,6 +10,8 @@
   - First you have to find the hash of the weapon then you can put it in the config file following the format and make an ace perm with it `weapon.name`
   - If you want all of the weapons that are not on the list to be automatically allowed you enable the `AllowedByDefault` to `true`
 
+![image](https://github.com/user-attachments/assets/2b769bfd-f967-4c2e-abce-924ade092da1)
+
 ## **What do I need to setup?**
  - You need to setup a `weapon_permissions.cfg` and put the ace perms in like this `add_ace group.admin weapon.combatmg allow` depending on what group/player you want to give it too.
 
