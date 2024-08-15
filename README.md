@@ -7,7 +7,7 @@
 ![image](https://github.com/user-attachments/assets/4d879d2a-e9ee-4b03-a1fe-5663025bc932)
 
 ## **How do I setup the config file?**
-  - First you have to find the hash of the weapon then you can put it in the config file following the format and make an ace perm with it `weapon.name`
+  - You will copy one of the previous lines and put `GetHashKey('weapon_spawn')` and replace `weapon_spawn` with whatever gun spawncode you need.
   - If you want all of the weapons that are not on the list to be automatically allowed you enable the `AllowedByDefault` to `true`
 
 ![image](https://github.com/user-attachments/assets/2b769bfd-f967-4c2e-abce-924ade092da1)
