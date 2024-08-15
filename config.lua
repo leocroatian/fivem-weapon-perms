@@ -4,10 +4,10 @@ Weapons = {
 }
 
 Weapons.weps = {
-    [-1660422300] = {
+    [GetHashKey('weapon_combatmg')] = {
         ace = 'weapon.combatmg',
     },
-    [487013001] = {
+    [GetHashKey('weapon_pumpshotgun')] = {
         ace = 'weapon.pumpshotgun'
     }
 }
