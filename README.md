@@ -10,7 +10,7 @@
   - You will copy one of the previous lines and put `GetHashKey('weapon_spawn')` and replace `weapon_spawn` with whatever gun spawncode you need.
   - If you want all of the weapons that are not on the list to be automatically allowed you enable the `AllowedByDefault` to `true`
 
-![image](https://github.com/user-attachments/assets/2b769bfd-f967-4c2e-abce-924ade092da1)
+![image](https://github.com/user-attachments/assets/f7e4c697-aeed-4bcd-8e31-c80480752170)
 
 ## **What do I need to setup?**
  - You need to setup a `weapon_permissions.cfg` and put the ace perms in like this `add_ace group.admin weapon.combatmg allow` depending on what group/player you want to give it too.
